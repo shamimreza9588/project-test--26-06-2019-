@@ -105,4 +105,11 @@ body {
     font-size: 2.3vw;
     text-shadow: 0px 9px 15px rgba(0, 0, 0, 0.6), 0px 6px 10px rgba(0, 0, 0, 0.4), 0px 3px 5px rgba(0, 0, 0, 0.2); }
 
+#sec_three {
+  width: 100%;
+  height: auto;
+  padding: 40px 0px;
+  position: relative;
+  background-color: pink; }
+
 /*# sourceMappingURL=style.css.map */
